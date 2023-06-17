@@ -49,6 +49,6 @@ function concatenateArray() {
     { id: 6, name: "rutuja", age: "34", profession: "intern" },
   ];  
 
-  const concatenateArray = arr.concat(arr2);
-  console.log(concatenateArray);
+  const concatenateArray1 = arr.concat(arr2);
+  console.log(concatenateArray1);
 }
